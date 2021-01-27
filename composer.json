@@ -1,0 +1,10 @@
+{
+    "name": "gsx",
+    "description": "测试",
+    "require": {},
+	"autoload":{
+        "psr-4": {
+            "gsx\\mypackage\\": "src/"
+        }
+    }
+}
